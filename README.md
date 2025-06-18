@@ -15,7 +15,7 @@ This is a simple lottery game built using React components. The game generates a
 
 ## 📸 Demo
 
-![Lottery Game Screenshot](./src/assets/Screenshot 2025-06-18 121622.png)
+![Lottery Game Screenshot](./src/assets/ss.png)
 
 ---
 
